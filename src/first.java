@@ -3,7 +3,7 @@ public class first {
         int count=10;
         System.out.println("count value"+count);
         String name = "saikumar";
-        System.out.println("name"+name);
+        System.out.println(name+" "+count);
     }
     
 }
